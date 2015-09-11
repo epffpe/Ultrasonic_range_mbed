@@ -1,0 +1,16 @@
+Added Component: Designator=S1(SW-PB6mm - 2)
+Added Component: Designator=S2(SW-PB6mm - 2)
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=GND Pin=S2-2
+Added Pin To Net: NetName=GND Pin=S2-2
+Added Pin To Net: NetName=PB1 Pin=S1-1
+Added Pin To Net: NetName=PB1 Pin=S1-1
+Added Pin To Net: NetName=PB1 Pin=U3-24
+Added Net: Name=PB1
+Added Pin To Net: NetName=PB2 Pin=S2-1
+Added Pin To Net: NetName=PB2 Pin=S2-1
+Added Pin To Net: NetName=PB2 Pin=U3-23
+Added Net: Name=PB2
+Added Member To Class: ClassName=Ultrasonic_mbed Member=Component S1 SW-PB
+Added Member To Class: ClassName=Ultrasonic_mbed Member=Component S2 SW-PB

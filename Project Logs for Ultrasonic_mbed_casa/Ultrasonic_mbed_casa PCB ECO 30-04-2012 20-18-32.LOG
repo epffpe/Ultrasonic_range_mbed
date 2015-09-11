@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NXT2 Pin=U7-24
+Removed Pin From Net: NetName=NXT3 Pin=U7-25
+Removed Pin From Net: NetName=G_INT Pin=U7-26
+Removed Pin From Net: NetName=A_INT1 Pin=U7-29
+Removed Pin From Net: NetName=M_DRDY Pin=U7-30
+Added Pin To Net: NetName=G_INT Pin=U7-24
+Added Pin To Net: NetName=A_INT1 Pin=U7-25
+Added Pin To Net: NetName=M_DRDY Pin=U7-26
+Added Pin To Net: NetName=NXT2 Pin=U7-29
+Added Pin To Net: NetName=NXT3 Pin=U7-30

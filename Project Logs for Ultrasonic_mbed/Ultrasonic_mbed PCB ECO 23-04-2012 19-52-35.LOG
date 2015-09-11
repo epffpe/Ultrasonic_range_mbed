@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=M_DRDY Pin=U3-26
+Removed Pin From Net: NetName=A_INT1 Pin=U3-29
+Removed Pin From Net: NetName=G_INT Pin=U3-30
+Added Component: Designator=R1(RES0805)
+Added Component: Designator=R2(RES0805)
+Added Pin To Net: NetName=3V3 Pin=R1-1
+Added Pin To Net: NetName=SDA Pin=R1-2
+Added Pin To Net: NetName=3V3 Pin=R2-1
+Added Pin To Net: NetName=SCL Pin=R2-2
+Added Pin To Net: NetName=G_INT Pin=U3-26
+Added Pin To Net: NetName=M_DRDY Pin=U3-29
+Added Pin To Net: NetName=A_INT1 Pin=U3-30
+Added Member To Class: ClassName=Ultrasonic_mbed Member=Component R1 Resistor
+Added Member To Class: ClassName=Ultrasonic_mbed Member=Component R2 Resistor

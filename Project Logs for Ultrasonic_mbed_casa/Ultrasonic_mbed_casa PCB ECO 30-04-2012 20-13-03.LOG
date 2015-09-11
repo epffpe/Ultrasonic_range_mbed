@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=TRIG4 Pin=U7-11
+Removed Pin From Net: NetName=ECHO4 Pin=U7-12
+Removed Pin From Net: NetName=TRIG6 Pin=U7-17
+Removed Pin From Net: NetName=ECHO6 Pin=U7-18
+Added Pin To Net: NetName=TRIG6 Pin=U7-11
+Added Pin To Net: NetName=ECHO6 Pin=U7-12
+Added Pin To Net: NetName=ECHO4 Pin=U7-17
+Added Pin To Net: NetName=TRIG4 Pin=U7-18
+Change Class Name : Old Net Name=Ultrasonic_mbed New Net Name=Ultrasonic_mbed_casa

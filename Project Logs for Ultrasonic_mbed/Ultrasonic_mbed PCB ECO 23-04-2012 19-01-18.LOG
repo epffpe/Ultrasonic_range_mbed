@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=VCC Pin=P1-1
+Removed Pin From Net: NetName=VCC Pin=P1-3
+Added Pin To Net: NetName=VCC Pin=P1-7
+Added Pin To Net: NetName=VCC Pin=P1-9
+Added Pin To Net: NetName=NXT1 Pin=P1-1
+Added Pin To Net: NetName=NXT1 Pin=U3-28
+Added Net: Name=NXT1
+Added Pin To Net: NetName=NXT2 Pin=P1-3
+Added Pin To Net: NetName=NXT2 Pin=U3-29
+Added Net: Name=NXT2
+Added Pin To Net: NetName=NXT3 Pin=P1-5
+Added Pin To Net: NetName=NXT3 Pin=U3-30
+Added Net: Name=NXT3
+Added Member To Class: ClassName=Ultrasonic_mbed Member=Component P2 Servo
+Added Member To Class: ClassName=Ultrasonic_mbed Member=Component U4 HC-SR04

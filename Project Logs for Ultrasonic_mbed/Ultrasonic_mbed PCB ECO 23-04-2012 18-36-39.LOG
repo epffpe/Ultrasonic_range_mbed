@@ -1,0 +1,61 @@
+Added Component: Designator=P?(HDR1X3)
+Added Component: Designator=P?(HDR2X5)
+Added Component: Designator=U?(HC-SR04)
+Added Component: Designator=U?(HC-SR04)
+Added Component: Designator=U?(mbed)
+Added Component: Designator=U?(HC-SR04)
+Added Component: Designator=U?(HC-SR04)
+Added Component: Designator=U?(HC-SR04)
+Added Component: Designator=U?(HC-SR04)
+Added Pin To Net: NetName=ECHO1 Pin=U?-3
+Added Net: Name=ECHO1
+Added Pin To Net: NetName=ECHO2 Pin=U?-3
+Added Net: Name=ECHO2
+Added Pin To Net: NetName=ECHO3 Pin=U?-3
+Added Net: Name=ECHO3
+Added Pin To Net: NetName=ECHO4 Pin=U?-3
+Added Net: Name=ECHO4
+Added Pin To Net: NetName=ECHO5 Pin=U?-3
+Added Net: Name=ECHO5
+Added Pin To Net: NetName=ECHO6 Pin=U?-3
+Added Net: Name=ECHO6
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-3
+Added Pin To Net: NetName=GND Pin=P?-4
+Added Pin To Net: NetName=GND Pin=P?-6
+Added Pin To Net: NetName=GND Pin=P?-8
+Added Pin To Net: NetName=GND Pin=P?-10
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-4
+Added Pin To Net: NetName=GND Pin=U?-4
+Added Pin To Net: NetName=GND Pin=U?-4
+Added Pin To Net: NetName=GND Pin=U?-4
+Added Pin To Net: NetName=GND Pin=U?-4
+Added Pin To Net: NetName=GND Pin=U?-4
+Added Net: Name=GND
+Added Pin To Net: NetName=SERVO1 Pin=P?-1
+Added Net: Name=SERVO1
+Added Pin To Net: NetName=TRIG1 Pin=U?-2
+Added Net: Name=TRIG1
+Added Pin To Net: NetName=TRIG2 Pin=U?-2
+Added Net: Name=TRIG2
+Added Pin To Net: NetName=TRIG3 Pin=U?-2
+Added Net: Name=TRIG3
+Added Pin To Net: NetName=TRIG4 Pin=U?-2
+Added Net: Name=TRIG4
+Added Pin To Net: NetName=TRIG5 Pin=U?-2
+Added Net: Name=TRIG5
+Added Pin To Net: NetName=TRIG6 Pin=U?-2
+Added Net: Name=TRIG6
+Added Pin To Net: NetName=VCC Pin=P?-1
+Added Pin To Net: NetName=VCC Pin=P?-2
+Added Pin To Net: NetName=VCC Pin=P?-3
+Added Pin To Net: NetName=VCC Pin=U?-1
+Added Pin To Net: NetName=VCC Pin=U?-1
+Added Pin To Net: NetName=VCC Pin=U?-1
+Added Pin To Net: NetName=VCC Pin=U?-1
+Added Pin To Net: NetName=VCC Pin=U?-1
+Added Pin To Net: NetName=VCC Pin=U?-1
+Added Pin To Net: NetName=VCC Pin=U?-2
+Added Net: Name=VCC
+Added Class: Name=Ultrasonic_mbed

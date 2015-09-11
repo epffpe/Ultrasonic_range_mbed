@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=TRIG5 Pin=U3-13
+Removed Pin From Net: NetName=ECHO5 Pin=U3-14
+Removed Pin From Net: NetName=TRIG6 Pin=U3-15
+Removed Pin From Net: NetName=ECHO6 Pin=U3-16
+Removed Pin From Net: NetName=PB1 Pin=U3-18
+Removed Pin From Net: NetName=PB2 Pin=U3-19
+Change Component Designator: OldDesignator=P1 NewDesignator=P3
+Change Component Designator: OldDesignator=P2 NewDesignator=P4
+Change Component Designator: OldDesignator=P3 NewDesignator=P1
+Change Component Designator: OldDesignator=U3 NewDesignator=U7
+Change Component Designator: OldDesignator=U4 NewDesignator=U3
+Change Component Designator: OldDesignator=U5 NewDesignator=U4
+Change Component Designator: OldDesignator=U6 NewDesignator=U5
+Change Component Designator: OldDesignator=U7 NewDesignator=U6
+Added Component: Designator=P2(HDR2X2)
+Added Pin To Net: NetName=VCC Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-3
+Added Pin To Net: NetName=TRIG5 Pin=U7-15
+Added Pin To Net: NetName=ECHO5 Pin=U7-16
+Added Pin To Net: NetName=TRIG6 Pin=U7-17
+Added Pin To Net: NetName=ECHO6 Pin=U7-18
+Added Pin To Net: NetName=PB1 Pin=U7-19
+Added Pin To Net: NetName=PB2 Pin=U7-20
+Added Pin To Net: NetName=RX Pin=P2-4
+Added Pin To Net: NetName=RX Pin=U7-14
+Added Net: Name=RX
+Added Pin To Net: NetName=TX Pin=P2-2
+Added Pin To Net: NetName=TX Pin=U7-13
+Added Net: Name=TX
+Added Member To Class: ClassName=Ultrasonic_mbed Member=Component P4 Servo

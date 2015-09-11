@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Ultrasonic_mbed.PrjPCB]
+   Generated File[Ultrasonic_mbed.TXT]
+   Generated File[Ultrasonic_mbed.DRL]
+   Generated File[Ultrasonic_mbed.LDP]
+   Generated File[Ultrasonic_mbed.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 16:05:57 On 25/04/2012
